@@ -28,7 +28,7 @@ I built this project in 24 hours,  For making this project, I used HTML and CSS 
 
 ---
 
-![shopify.](./images/Screenshot%20(146).png)
+![shopify.](./assets/Screenshot%20(147).png)
 
 ### Need help?
 
