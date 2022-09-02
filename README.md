@@ -24,7 +24,7 @@ I built this project in 24 hours,  For making this project, I used HTML and CSS 
 - Front End - **HTML**, **CSS**
 
 
-#### Interior Design site Project 10 UI [Preview Link](https://project-9-ui.netlify.app/)
+#### Interior Design site Project 10 UI [Preview Link](https://project-10-ui.netlify.app/)
 
 ---
 
