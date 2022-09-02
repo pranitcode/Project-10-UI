@@ -76,6 +76,7 @@ height: 10vh;
     padding:1rem;
     position: relative;
     z-index: 10;
+    color: #fff;
  }
 
  .box-one img{
@@ -107,6 +108,7 @@ height: 10vh;
    z-index: 10;
    top: 15rem;
    right: 20rem;
+   color: #fff;
 }
 
 
@@ -348,5 +350,5 @@ display: inline-block;
 position :absolute;
 left: 13rem;
  }
- 
+
  }
